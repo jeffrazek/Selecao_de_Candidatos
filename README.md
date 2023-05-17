@@ -7,14 +7,14 @@
 
 Projeto desenvolvido com intuito de avaliação individual no curso intensivo de Data Analytics na Resilia Educação.
 
-No mesmo, foi criado um código Python que contenha uma lista de candidatos á uma vaga e esses candidatos foram avaliados de quatro formas:
+No mesmo, foi criado um código Python que contenha uma lista de candidatos à uma vaga e esses candidatos foram avaliados de quatro formas:
 
 + Entrevista
 + Teste Teórico
 + Teste Prático
 + Avaliação de Soft Skills
 
-Suas notas em cada etapa foi guardado uma lista contento tuplas com as notas de cada candidato.
+Suas notas em cada etapa são armazenadas em uma lista contento tuplas com as notas de cada candidato.
 
 Após isso, o programa solicita que o usuário digite a nota que ele deseja para atender a vaga em questão. O usuário assim digitando, o programa retorna uma string no formato eX_tX_pX_sX sendo que cada X é substituído pela avaliação do candidato nas etapas do processo - entrevista(e), teste teórico(t), teste prático(p) e avaliação de soft skills(s).
 
