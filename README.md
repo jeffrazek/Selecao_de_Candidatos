@@ -1,4 +1,4 @@
-<h1>Selecao de Candidatos</h1>
+<h1>Seleção de Candidatos</h1>
 
 > Projeto Individual Módulo 2 - Resilia Educação
 
