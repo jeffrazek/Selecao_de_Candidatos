@@ -2,7 +2,7 @@
 
 > Projeto Individual Módulo 2 - Resilia Educação
 
-> Status: Em Andamento ⚠️
+> Status: Em Melhoria ⚠️
 
 
 Projeto desenvolvido com intuito de avaliação individual no curso intensivo de Data Analytics na Resilia Educação.
